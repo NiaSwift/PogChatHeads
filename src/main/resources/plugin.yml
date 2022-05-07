@@ -1,0 +1,6 @@
+name: PogChatHeads
+version: '${project.version}'
+main: me.iderpy.pogchatheads.PogChatHeads
+api-version: 1.18
+authors: [ iDerpy ]
+description: Include your head in chat
